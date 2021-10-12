@@ -1,0 +1,17 @@
+{
+  "name": "excel-to-json-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Paweł Kociubiński",
+  "scripts": {
+    "generate": "node index.js generate"
+  },
+  "dependencies": {
+    "better-console": "1.0.1",
+    "commander": "9.3.0",
+    "convert-excel-to-json": "1.7.0",
+    "inquirer": "8.2.4",
+    "lodash": "4.17.21"
+  }
+}
